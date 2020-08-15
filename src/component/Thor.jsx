@@ -31,7 +31,7 @@ class Thor extends Component {
     return (
       <div>
         <Link to="/">Home</Link>
-        <h1>Thor</h1>
+        <h1>Thor Comics</h1>
         {this.showComic()}
       </div>
     );
